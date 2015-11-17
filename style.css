@@ -1,6 +1,6 @@
 img {
-  width: 35px;
-  height: 35px;
+  width: 45px;
+  height: 45px;
 }
 
 table {
@@ -26,4 +26,7 @@ h1 {
 #fahrenheit {
 	width: 40px;
 	height: 40px;
+}
+.equal-width {
+	width: 33%
 }
